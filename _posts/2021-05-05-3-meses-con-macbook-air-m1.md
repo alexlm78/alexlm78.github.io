@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 3 Meses con MacBook Air M1
 categories:
 - blog

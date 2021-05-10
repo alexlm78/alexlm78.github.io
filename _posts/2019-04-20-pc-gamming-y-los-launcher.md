@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: PC Gamming y los launcher
 categories:
 - blog
